@@ -1,6 +1,6 @@
 {
   "name": "@qooxdoo/preset-env",
-  "version": "1.6.1",
+  "version": "1.0.0",
   "description": "A Babel preset for each environment, customised for Qooxdoo to control module version numbers",
   "author": "Henry Zhu <hi@henryzoo.com>",
   "homepage": "https://babeljs.io/",
