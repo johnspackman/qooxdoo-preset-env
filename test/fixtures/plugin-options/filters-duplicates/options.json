@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    ["../../../../lib/transform-polyfill-require-plugin", {
+      "polyfills": [
+        "es6.typed.data-view",
+        "es6.typed.data-view",
+        "es6.reflect.apply"
+      ]
+    }]
+  ]
+}
